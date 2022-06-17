@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lowsy
+- 👋 Hi, I’m Syl0
 - 👀 I’m interested in picking up more knowledge and skills in the Cyber security field 
 - 🌱 I’m currently learning python, search me up at tryhackme 
 - 💞️ I’m looking to collaborate on ...
