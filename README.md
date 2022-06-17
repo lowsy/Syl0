@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lowsy
-- 👀 I’m interested in food 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in picking up more knowledge and skills in the Cyber security field 
+- 🌱 I’m currently learning python, search me up at tryhackme 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ---- @ github ;) 
+- 📫 How to reach me lowsy @ github ;) 
 
 <!---
 lowsy/lowsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
